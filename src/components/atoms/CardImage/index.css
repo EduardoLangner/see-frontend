@@ -1,0 +1,18 @@
+img {
+   /* width: 100px;
+    height: 150px; */
+    border-radius: 9px;
+}
+
+.image-medium {
+    width: 92px;
+    height: 134px;
+} 
+.image-small{
+    width: 95px;
+    height: 138px;
+}
+.image-horizontal {
+    width: 133px;
+    height: 60px;
+}

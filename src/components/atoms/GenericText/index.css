@@ -1,0 +1,61 @@
+.text-color-black {
+    color: black;
+}
+.text-color-white {
+    color: white;
+}
+.text-color-undefined {
+    color: white;
+}
+.text-color-gray {
+    color: #B9B9B9;
+}
+.text-color-green {
+    color: #7EB863;
+}
+.text-color-red {
+    color: #DA1313;
+}
+.text-size-small {
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 11px;
+}
+.text-size-medium {
+    font-family: system-ui;
+    font-size: 16px;
+}
+.text-size-subtitlebold {
+    font-family: system-ui;
+    font-size: 17px;
+    font-weight: 600;
+}
+.text-size-subtitleboldmenor {
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 600;
+}
+/* .text-size-large {
+    font-family: system-ui;
+    font-size: 19px;
+} */
+
+.text-size-large {
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.text-size-large-menor {
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.text-size-undefined {
+    font-family: system-ui;
+    font-size: 14px;
+}
+.text-bold-bold {
+    font-weight: 600;
+}

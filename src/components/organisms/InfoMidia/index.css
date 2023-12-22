@@ -1,0 +1,194 @@
+.InfoMidia {
+    background-image: linear-gradient(180deg, #1b4164, #383838, #000000, #12142b);
+    background-color: #12142B;
+    height: 100%;
+}
+.info-header {
+    display: flex;
+    padding: 8px 27px 15px;
+    align-items: center;
+}
+.inf-flex {
+    display: flex;
+}
+.info-header-inicial-info {
+    padding: 2px 0px 2px 19px;
+    display: flex;
+    flex-direction: column;
+}
+.info-header-avaliate {
+    padding: 0px 4px 0px 0px;
+}
+
+.info-header-text {
+    margin: -4px 0px;
+}
+
+.info-avaliate-padd {
+    padding: 0px 6px 0px;
+}
+.info-header-genre {
+    padding: 4px 0px 0px 2px;
+}
+.info-header-text-padd {
+    padding-right: 7px;
+}
+.info-header-button {
+    padding: 7px 0px 7px 7px;
+    background-color: #116C72;
+    margin-top: 8px;
+    border-radius: 55px;
+    display: flex;
+    width: 102px;
+    align-items: center;
+}
+.info-play-button {
+    height: 14px;
+    width: 15px;
+}
+.info-header-assistir {
+    font-size: 11px;
+    font-family: system-ui;
+    font-weight: 600;
+    padding-left: 5px;
+    color: white;
+}
+.info-favoritos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.info-favoritos-img {
+    height: 15px;
+    width: 15px;
+    border-radius: 0px;
+    margin-right: 2px;
+}
+.info-sinopse {
+    margin: -8px 31px 4px 27px;
+}
+.info-sinopse-description {
+    line-height: 16px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.info-sinopse-description-large {
+    line-height: 16px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.info-sinopse-expanded {
+    height: 100%;
+}
+.info-sinopse-compressed {
+    height: 55px;
+}
+.info-sinopse-arrow-ler {
+    width: 16px;
+    height: 11px;
+    margin-right: 7px;
+}
+.info-sinopse-arrow-ler-menos {
+    width: 16px;
+    height: 11px;
+    margin-right: 7px;
+    transform: rotate(180deg);
+}
+.info-sinopse-ler-mais {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.info-sinopse-ler-menos {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.info-avaliate {
+    margin: 26px 27px 0px;
+}
+.info-link-assistir {
+    padding: 0;
+    text-transform: none;
+    text-decoration: none;
+}
+.info-type {
+    padding-left: 27px;
+    font-weight: 600;
+}
+
+.info-avaliate-stars {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 11px 82px;
+    padding: 0px 9px 6px 7px;
+    border-radius: 20px;
+}
+.info-read-comment {
+    margin: 0 27px;
+}
+.info-read-comment-mais {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.info-sinopse-arrow-ver-mais {
+    width: 11px;
+    height: 7px;
+    padding-right: 7px;
+}
+.info-read-comment-menos {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.info-sinopse-arrow-ver-menos {
+    width: 11px;
+    height: 7px;
+    padding-right: 7px;
+}
+.Info-write-comment {
+    margin: 0 27px;
+}
+.info-footer {
+    margin: 30px 0 0 0px;
+}
+.info-footer-text {
+    margin-left: 27px;
+}
+.info-footer-cards {
+    margin: 13px 0;
+}
+.info-temporada {
+    color: white;
+    padding-bottom: 3px;
+}
+.showTemp {
+    
+}
+.ocultoTemp {
+    
+}
+.info-footer-cards-carrossel {
+    margin-bottom: 20px;
+}
+.info-temporada-texto {
+    font-family: system-ui;
+    font-weight: 600;
+    font-size: 20px;
+}
+.info-temporada-arrow {
+    width: 15px;
+    height: 10px;
+    margin-right: 13px;
+}
+.info-temporada-touch {
+    padding: 16px 0px 11px 33px;
+}
+

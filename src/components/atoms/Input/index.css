@@ -1,0 +1,32 @@
+/* .input {
+    border: none;
+    border-radius: 8px;
+    height: 35px;
+    width: 100%;
+    padding-left: 10px;
+} */
+
+.input{
+    width: 275px;
+    height: 40px;
+    background: #1F3048;
+    border-radius: 10px;
+    color: #758191;
+    font-weight: bold;
+    padding-left: 15px;
+    border: none;
+}
+.input-check-img {
+    width: 14.98px;
+    height: 15.05px;
+    margin-left: -29px;
+}
+
+input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+.nome-input{
+    padding-bottom: 17px;
+}

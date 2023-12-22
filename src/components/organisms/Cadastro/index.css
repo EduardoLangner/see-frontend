@@ -1,0 +1,43 @@
+.cadastro-content {
+    height: 100%;
+    background: #061834;
+}
+
+.cadastro-title {
+    padding: 20px 10px 10px 50px;
+}
+
+.nome-input {
+    padding: 10px 10px 10px 50px;
+    height: 55px;
+}
+
+
+.cadastro-regra-senha {
+    padding: 0 10px 2px 55px;
+}
+
+.cadastro-regra-icon {
+    padding: 0 10px 10px 55px;
+}
+
+.cadastro-button {
+    padding: 10px 10px 10px 50px;
+}
+
+.ja-possui-cadastro {
+    display: flex;
+    align-items: center;
+    padding: 10px 25px 10px 25px;
+    justify-content: space-evenly;
+}
+
+.cadastro-mini-check-icon {
+    margin-right: 10px;
+}
+
+.cadastro-criterio {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}

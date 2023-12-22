@@ -1,0 +1,21 @@
+.nav-info-hamb {
+    width: 34.73px;
+    height: 31px;
+}
+
+.nav-info-hamb-arrow {
+    width: 11px;
+    height: 16px;
+}
+
+.nav-info-bar-components {
+    display: flex;
+    padding: 18px 27px 0px 27px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-info-logo {
+    font-size: 17px;
+    color: white;
+}
